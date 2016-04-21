@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_74-b02 (Oracle Corporation)
+Class-Path: lib/activation-1.1.jar lib/cupertino-1.0.10.jar lib/jsf-ap
+ i-2.2.12.jar lib/jsf-impl-2.2.12.jar lib/log4j-api-2.5.jar lib/log4j-
+ core-2.5.jar lib/mail-1.4.jar lib/postgresql-8.4-702.jdbc4.jar lib/pr
+ imefaces-5.2.jar lib/rowset.jar lib/tomcat-juli-8.0.30.jar lib/activa
+ tion-1.1.jar lib/annotations-api.jar lib/antlr-2.7.7.jar lib/catalina
+ -ant.jar lib/catalina-ha.jar lib/catalina-storeconfig.jar lib/catalin
+ a-tribes.jar lib/catalina.jar lib/commons-io-2.0.1.jar lib/commons-la
+ ng-2.6.jar lib/commons-logging-1.2.jar lib/cupertino-1.0.10.jar lib/d
+ om4j-1.6.1.jar lib/ecj-4.4.2.jar lib/el-api.jar lib/hamcrest-core-1.3
+ .jar lib/hamcrest-library-1.3.jar lib/jasper-el.jar lib/jasper.jar li
+ b/javassist-3.18.1-GA.jar lib/jdom-2.0.2.jar lib/joda-time-2.3.jar li
+ b/jsf-api-2.2.12.jar lib/jsf-impl-2.2.12.jar lib/json-path-0.8.1.jar 
+ lib/json-smart-1.1.1.jar lib/jsp-api.jar lib/jstl-1.2.jar lib/junit-4
+ .11.jar lib/log4j-api-2.5.jar lib/log4j-core-2.5.jar lib/mail-1.4.jar
+  lib/postgresql-8.4-702.jdbc4.jar lib/primefaces-5.2.jar lib/rome-1.5
+ .0.jar lib/rome-utils-1.5.0.jar lib/rowset.jar lib/servlet-api.jar li
+ b/slf4j-api-1.7.7.jar lib/tomcat-api.jar lib/tomcat-coyote.jar lib/to
+ mcat-dbcp.jar lib/tomcat-i18n-es.jar lib/tomcat-i18n-fr.jar lib/tomca
+ t-i18n-ja.jar lib/tomcat-jdbc.jar lib/tomcat-jni.jar lib/tomcat-juli-
+ 8.0.30.jar lib/tomcat-util-scan.jar lib/tomcat-util.jar lib/tomcat-we
+ bsocket.jar lib/validation-api-1.0.0.GA.jar lib/websocket-api.jar lib
+ /xmlunit-1.2.jar
+X-COMMENT: Main-Class will be added automatically by build
+
