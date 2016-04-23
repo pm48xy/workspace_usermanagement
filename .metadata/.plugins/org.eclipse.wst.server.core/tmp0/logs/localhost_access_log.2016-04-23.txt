@@ -1,0 +1,14 @@
+127.0.0.1 - - [23/Apr/2016:14:08:25 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/ HTTP/1.1" 200 8824
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/faces/javax.faces.resource/layout/layout.css;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E?ln=primefaces&v=5.2 HTTP/1.1" 200 542
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/faces/javax.faces.resource/jquery/jquery.js;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E?ln=primefaces&v=5.2 HTTP/1.1" 200 108195
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/faces/javax.faces.resource/layout/layout.js;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E?ln=primefaces&v=5.2 HTTP/1.1" 200 87647
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/faces/javax.faces.resource/md5.js;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E?ln=js HTTP/1.1" 200 7071
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/faces/javax.faces.resource/primefaces.js;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E?ln=primefaces&v=5.2 HTTP/1.1" 200 340589
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/faces/javax.faces.resource/jquery/jquery-plugins.js;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E?ln=primefaces&v=5.2 HTTP/1.1" 200 240240
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:27 +0530] "GET /ManageUser/faces/javax.faces.resource/primefaces.css;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E?ln=primefaces&v=5.2 HTTP/1.1" 200 63514
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:32 +0530] "GET /ManageUser/faces/login.xhtml;jsessionid=84EC9DEFEE7F946F1455CA6C79208F2E HTTP/1.1" 200 9996
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:51 +0530] "POST /ManageUser/faces/login.xhtml HTTP/1.1" 200 163
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:51 +0530] "GET /ManageUser/faces/user/userhome.xhtml HTTP/1.1" 200 6593
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:58 +0530] "POST /ManageUser/faces/user/userhome.xhtml HTTP/1.1" 200 155
+0:0:0:0:0:0:0:1 - - [23/Apr/2016:14:08:58 +0530] "GET /ManageUser/faces/index.xhtml HTTP/1.1" 200 8253
